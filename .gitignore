@@ -1,0 +1,42 @@
+# Bash Learning Repo - .gitignore
+
+# Compiled executables
+*.o
+*.a
+*.so
+*.out
+
+# Temporary files
+*.tmp
+*.temp
+*~
+.DS_Store
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.*~
+
+# Output files
+output/
+results/
+*.log
+
+# Test directories
+test_directory/
+test_file/
+my_library_project/
+my_project/
+
+# User exercise files (keep examples, exclude personal attempts if desired)
+exercises/solutions/*/
+
+# System files
+.directory
+Thumbs.db
+
+# Notes
+notes.txt
+TODO.txt
