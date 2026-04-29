@@ -58,24 +58,47 @@ Track your journey through the Bash learning guide!
 
 ---
 
-### ⏳ Topic 3: Control Flow (if/else, loops)
-- **Status**: 🔵 Not Started
+### ✅ Topic 2: Variables and User Input
+- **Status**: 🟢 Ready to Start / 🟡 In Progress / 🟢 Completed
 - **Start Date**: 
 - **Completion Date**: 
 - **Hours Spent**: 
 - **Difficulty**: ⭐⭐ (Easy)
 
-**Key Concepts to Learn**:
-- [ ] if/else statements
-- [ ] if-elif-else chains
-- [ ] for loops
-- [ ] while loops
-- [ ] case statements
-- [ ] Logical operators (&&, ||, !)
+**Exercises**:
+- [ ] Exercise 2.1: Personal Information
+- [ ] Exercise 2.2: Calculator
+- [ ] Exercise 2.3: Arguments
+- [ ] Exercise 2.4: Registration
+- [ ] Exercise 2.5: Operations
+- [ ] Challenge: Library Query
 
 **Notes**:
 ```
-[Add your notes here]
+[Add your notes here about what you learned]
+```
+
+---
+
+### ⏳ Topic 3: Control Flow (if/else, loops)
+- **Status**: 🟢 Ready to Start
+- **Start Date**: 
+- **Completion Date**: 
+- **Hours Spent**: 
+- **Difficulty**: ⭐⭐ (Easy-Intermediate)
+
+**Exercises**:
+- [ ] Exercise 3.1: Age Validator
+- [ ] Exercise 3.2: Number Comparison
+- [ ] Exercise 3.3: String Validation
+- [ ] Exercise 3.4: Menu System (case)
+- [ ] Exercise 3.5: for Loop
+- [ ] Exercise 3.6: while Loop
+- [ ] Challenge: Library System
+
+**Notes**:
+```
+[Add your notes here about what you learned]
 ```
 
 ---
