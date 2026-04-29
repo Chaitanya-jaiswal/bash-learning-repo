@@ -10,8 +10,8 @@ A comprehensive learning guide for Bash programming designed specifically for th
 
 ## 📋 Table of Contents
 
-1. **[Topic 1: Introduction to Bash & Basic Syntax](#topic-1)** ✅ Ready
-2. **Topic 2: Variables and User Input** (Coming Soon)
+1. **[Topic 1: Introduction to Bash & Basic Syntax](topics/01-intro-basics.md)** ✅ Ready
+2. **[Topic 2: Variables and User Input](topics/02-variables.md)** ✅ Ready
 3. **Topic 3: Control Flow (if/else, loops)** (Coming Soon)
 4. **Topic 4: Functions & Modular Code** (Coming Soon)
 5. **Topic 5: File Operations & I/O** (Coming Soon)
