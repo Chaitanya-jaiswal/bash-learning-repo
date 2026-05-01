@@ -125,46 +125,24 @@ Track your journey through the Bash learning guide!
 
 ---
 
-### ⏳ Topic 5: File Operations & I/O
-- **Status**: 🔵 Not Started
+### ✅ Topic 5: File Operations & I/O
+- **Status**: 🟢 Ready to Start
 - **Start Date**: 
 - **Completion Date**: 
 - **Hours Spent**: 
 - **Difficulty**: ⭐⭐⭐ (Intermediate)
 
-**Key Concepts to Learn**:
-- [ ] Reading files
-- [ ] Writing files
-- [ ] Appending to files
-- [ ] File permissions
-- [ ] Input/Output redirection
-- [ ] Pipes
+**Exercises**:
+- [ ] Exercise 5.1: Read and Display
+- [ ] Exercise 5.2: Write and Append
+- [ ] Exercise 5.3: Process CSV
+- [ ] Exercise 5.4: Search and Filter
+- [ ] Exercise 5.5: Transaction Log
+- [ ] Challenge: Library Data Management
 
 **Notes**:
 ```
-[Add your notes here]
-```
-
----
-
-### ⏳ Topic 5: File Operations & I/O
-- **Status**: 🔵 Not Started
-- **Start Date**: 
-- **Completion Date**: 
-- **Hours Spent**: 
-- **Difficulty**: ⭐⭐⭐ (Intermediate)
-
-**Key Concepts to Learn**:
-- [ ] Reading files
-- [ ] Writing files
-- [ ] Appending to files
-- [ ] File permissions
-- [ ] Input/Output redirection
-- [ ] Pipes
-
-**Notes**:
-```
-[Add your notes here]
+[Add your notes here about what you learned]
 ```
 
 ---
