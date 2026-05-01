@@ -104,6 +104,28 @@ Track your journey through the Bash learning guide!
 ---
 
 ### ⏳ Topic 4: Functions & Modular Code
+- **Status**: 🟢 Ready to Start
+- **Start Date**: 
+- **Completion Date**: 
+- **Hours Spent**: 
+- **Difficulty**: ⭐⭐⭐ (Intermediate)
+
+**Exercises**:
+- [ ] Exercise 4.1: Math Functions
+- [ ] Exercise 4.2: String Functions
+- [ ] Exercise 4.3: Validation Functions
+- [ ] Exercise 4.4: File Operations Functions
+- [ ] Exercise 4.5: Library User Management
+- [ ] Challenge: Modular Library System
+
+**Notes**:
+```
+[Add your notes here about what you learned]
+```
+
+---
+
+### ⏳ Topic 5: File Operations & I/O
 - **Status**: 🔵 Not Started
 - **Start Date**: 
 - **Completion Date**: 
@@ -111,11 +133,12 @@ Track your journey through the Bash learning guide!
 - **Difficulty**: ⭐⭐⭐ (Intermediate)
 
 **Key Concepts to Learn**:
-- [ ] Function definition
-- [ ] Function parameters
-- [ ] Return values
-- [ ] Local vs global variables
-- [ ] Code reusability
+- [ ] Reading files
+- [ ] Writing files
+- [ ] Appending to files
+- [ ] File permissions
+- [ ] Input/Output redirection
+- [ ] Pipes
 
 **Notes**:
 ```
