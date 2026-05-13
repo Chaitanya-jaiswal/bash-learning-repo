@@ -15,8 +15,8 @@ A comprehensive learning guide for Bash programming designed specifically for th
 3. **[Topic 3: Control Flow (if/else, loops)](topics/03-control-flow.md)** ✅ Ready
 4. **[Topic 4: Functions & Modular Code](topics/04-functions.md)** ✅ Ready
 5. **[Topic 5: File Operations & I/O](topics/05-file-operations.md)** ✅ Ready
-6. **Topic 6: Interprocess Communication (IPC)** (Coming Soon)
-7. **Topic 7: Error Handling & Debugging** (Coming Soon)
+6. **[Topic 6: Interprocess Communication (IPC)](topics/06-ipc.md)** ✅ Ready
+7. **[Topic 7: Error Handling & Debugging](topics/07-debugging.md)** ✅ Ready
 
 ## 📁 Repository Structure
 
