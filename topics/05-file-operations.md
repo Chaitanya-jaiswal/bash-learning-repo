@@ -1,4 +1,3 @@
-# Topic 5: File Operations & I/O
 
 **Status**: ✅ Ready to Learn  
 **Duration**: 2-3 hours  
